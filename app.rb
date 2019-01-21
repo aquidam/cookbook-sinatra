@@ -8,6 +8,6 @@ configure :development do
 end
 
 get '/' do
-  'Hello world! Is this really working?'
+  'Hello world! I guess this is working?'
 end
 
